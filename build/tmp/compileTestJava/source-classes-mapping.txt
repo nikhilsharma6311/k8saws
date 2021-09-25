@@ -1,0 +1,2 @@
+com/jhooq/Jhooqk8s/JhooqK8sApplicationTests.java
+ com.jhooq.Jhooqk8s.JhooqK8sApplicationTests

@@ -1,0 +1,4 @@
+com/jhooq/Jhooqk8s/JhooqDockerDemo.java
+ com.jhooq.Jhooqk8s.JhooqDockerDemo
+com/jhooq/Jhooqk8s/ws/JhooqDockerDemoController.java
+ com.jhooq.Jhooqk8s.ws.JhooqDockerDemoController
